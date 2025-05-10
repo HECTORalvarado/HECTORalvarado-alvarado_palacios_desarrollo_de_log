@@ -12,7 +12,7 @@
 <!DOCTYPE html>
 <html lang="es-SV">
     <head>
-        <title>INICIO DE SESION : CRISTIAN MARCELO LOPEZ HUEZO</title>
+        <title>INICIO DE SESION : Héctor Alexander Alvarado Palacios</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-widht, initial-scale=1.0"/>
         <link rel="stylesheet" href ="Css/bootstrap.css" />
