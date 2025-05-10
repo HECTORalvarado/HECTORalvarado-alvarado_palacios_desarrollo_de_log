@@ -6,7 +6,6 @@
    include("core/secure/ips.php");
    $archivo = "./logs/log.log";
    $ip = ip_in_range($_SERVER["REMOTE_ADDR"], $rango);
-
 ?>
 
 <!DOCTYPE html>
